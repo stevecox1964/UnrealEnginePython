@@ -10,7 +10,7 @@ I am adding my Python ML code to my repo from here and will try and keep up to d
 
 
 
-# ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+# -----------------  Original 20Tab below -----------------------------------------
 Teaser (by Kite & Lightning): https://twitter.com/KNLstudio/status/932657812466843648
 
 Fixing Mixamo RootMotion tuturial: https://github.com/20tab/UnrealEnginePython/blob/master/tutorials/FixingMixamoRootMotionWithPython.md
