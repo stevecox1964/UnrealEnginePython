@@ -2,7 +2,7 @@
 # UnrealEnginePython
 Embed Python in Unreal Engine 4
 
-# !!!!!!!!!!!!!!!!!!!!!!!!!!  NOTE  !!!!!!!!!!!!!!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!  NOTE  !!!!!!!!!!!!!!!!!!!!!!
 This is a fork of a fork of a fork. Original work was done by 20Tab, Then DavidJo ported to 4.25 which has major changes from 4.24 moving forward.
 This is the EMBEDED version of the plugin which means you have to do more integration work to get it to run properly.
 I am adding my Python ML code to my repo from here and will try and keep up to date with 4.2X changes moving forward
@@ -10,7 +10,7 @@ I am adding my Python ML code to my repo from here and will try and keep up to d
 
 
 
-# -----------------  Original 20Tab below -----------------------------------------
+# -----------------  Original 20Tab below ----------------
 Teaser (by Kite & Lightning): https://twitter.com/KNLstudio/status/932657812466843648
 
 Fixing Mixamo RootMotion tuturial: https://github.com/20tab/UnrealEnginePython/blob/master/tutorials/FixingMixamoRootMotionWithPython.md
