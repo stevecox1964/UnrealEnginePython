@@ -2,7 +2,6 @@
 # UnrealEnginePython
 Embed Python in Unreal Engine 4 - Steves Files
 
-
 These are pre-compiled 4.26 versions of the UnrealEnginePython binaries.
 
 You will need to install these binaries as well as the Python 3.X binaries in same dir
@@ -26,31 +25,31 @@ To install:
  pythonw.exe<br>
  select.pyd<br>
  sqlite3.dll<br>
- UE4Editor-PythonAutomation.dll
- UE4Editor-PythonAutomation.pdb
- UE4Editor-PythonConsole.dll
- UE4Editor-PythonConsole.pdb
- UE4Editor-PythonEditor.dll
- UE4Editor-PythonEditor.pdb
- UE4Editor-UnrealEnginePython.dll
- UE4Editor-UnrealEnginePython.pdb
- UE4Editor.modules
- unicodedata.pyd
- vcruntime140.dll
- winsound.pyd
- _asyncio.pyd
- _bz2.pyd
- _ctypes.pyd
- _decimal.pyd
- _elementtree.pyd
- _hashlib.pyd
- _lzma.pyd
- _msi.pyd
- _multiprocessing.pyd
- _overlapped.pyd
- _socket.pyd
- _sqlite3.pyd
- _ssl.pyd
+ UE4Editor-PythonAutomation.dll<br>
+ UE4Editor-PythonAutomation.pdb<br>
+  UE4Editor-PythonConsole.dll<br>
+ UE4Editor-PythonConsole.pdb<br>
+ UE4Editor-PythonEditor.dll<br>
+ UE4Editor-PythonEditor.pdb<br>
+ UE4Editor-UnrealEnginePython.dll<br>
+ UE4Editor-UnrealEnginePython.pdb<br>
+ UE4Editor.modules<br>
+ unicodedata.pyd<br>
+ vcruntime140.dll<br>
+ winsound.pyd<br>
+ _asyncio.pyd<br>
+ _bz2.pyd<br>
+ _ctypes.pyd<br>
+ _decimal.pyd<br>
+ _elementtree.pyd<br>
+ _hashlib.pyd<br>
+ _lzma.pyd<br>
+ _msi.pyd<br>
+ _multiprocessing.pyd<br>
+ _overlapped.pyd<br>
+ _socket.pyd<br>
+ _sqlite3.pyd<br>
+ _ssl.pyd<br>
 
 
 
