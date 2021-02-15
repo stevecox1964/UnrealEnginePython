@@ -19,7 +19,7 @@ To install:
 Python embedded:<br>
 https://www.python.org/downloads/windows/
 
-
+Example file structure when all done:<br>
  get-pip.py<br>
  InstallPip.bat<br>
  pyexpat.pyd<br>
