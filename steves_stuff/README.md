@@ -17,15 +17,15 @@ To install:
 7. Files in Win64 should look like this below
 8. Go watch my video ;) https://www.youtube.com/watch?v=PBq6eDdaaqI&t=2s
 
- get-pip.py
- InstallPip.bat
- pyexpat.pyd
- python.exe
- python3.dll
- python36.dll
- pythonw.exe
- select.pyd
- sqlite3.dll
+ get-pip.py<br>
+ InstallPip.bat<br>
+ pyexpat.pyd<br>
+ python.exe<br>
+ python3.dll<br>
+ python36.dll<br>
+ pythonw.exe<br>
+ select.pyd<br>
+ sqlite3.dll<br>
  UE4Editor-PythonAutomation.dll
  UE4Editor-PythonAutomation.pdb
  UE4Editor-PythonConsole.dll
