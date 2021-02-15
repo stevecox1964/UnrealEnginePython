@@ -12,9 +12,13 @@ To install:
 3. So right now you should have "Plugins\UnrealEnginePython" with UnrealEnginePython master content inside
 4. Create a (where ever you Unreal project lives)\Plugins\UnrealEnginePython\Binaries\Win64 directory
 5. Copy the files from UnrealEnginePython\steves_stuff\4.26 Build\ git hub project into the Win64 dir
-6. Go download a windows version of Python runtime and extract into same Win64 dir
+6. Go download a embbedible Python runtime for window and extract files into same Win64 dir
 7. Files in Win64 should look like this below
 8. Go watch my video ;) https://www.youtube.com/watch?v=PBq6eDdaaqI&t=2s
+
+Python embedded:<br>
+https://www.python.org/downloads/windows/
+
 
  get-pip.py<br>
  InstallPip.bat<br>
